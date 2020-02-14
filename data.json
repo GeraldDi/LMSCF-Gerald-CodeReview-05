@@ -1,0 +1,67 @@
+var json = [{
+
+
+   "title": "Baloon",
+
+   "desc": "A short description",
+
+   "likes": "10",
+
+   "picture": "img/baloon.jpg",
+
+}, {
+
+
+   "title": "Kin",
+
+   "desc": "A short description",
+
+   "likes": "10",
+
+   "picture": "img/kin.jpg",
+
+},  {
+
+
+   "title": "Nightlife",
+
+   "desc": "A short description",
+
+   "likes": "10",
+
+   "picture": "img/nightlife.jpg",
+
+},  {
+
+
+   "title": "Star-Wars-9",
+
+   "desc": "A short description",
+
+   "likes": "10",
+
+   "picture": "img/Star-Wars-9.jpg",
+
+},{
+
+
+   "title": "Sunset",
+
+   "desc": "A short description",
+
+   "likes": "10",
+
+   "picture": "img/sunset.jpg",
+
+},{
+
+
+   "title": "War",
+
+   "desc": "A short description",
+
+   "likes": "10",
+
+   "picture": "img/war.jpg",
+
+}];
