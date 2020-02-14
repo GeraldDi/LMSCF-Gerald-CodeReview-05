@@ -1,4 +1,4 @@
-var json = [{
+var data = [{
 
 
    "title": "Baloon",
@@ -31,16 +31,16 @@ var json = [{
 
    "picture": "img/nightlife.jpg",
 
-},  {
+}, {
 
 
-   "title": "Star-Wars-9",
+   "title": "Joker",
 
    "desc": "A short description",
 
    "likes": "10",
 
-   "picture": "img/Star-Wars-9.jpg",
+   "picture": "img/Joker.jpg",
 
 },{
 
@@ -56,12 +56,12 @@ var json = [{
 },{
 
 
-   "title": "War",
+   "title": "Blade Runner",
 
    "desc": "A short description",
 
    "likes": "10",
 
-   "picture": "img/war.jpg",
+   "picture": "img/BladeRunner.jpg",
 
 }];

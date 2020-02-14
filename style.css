@@ -1,0 +1,19 @@
+.pic{
+	width: 40%;
+}
+#top{
+	margin-bottom: -0.2em;
+	padding-bottom: 0.2em;
+}
+#footer{
+	margin-top: 5%;
+}
+
+.bg-black{
+	background-color: black;
+}
+@media screen and (max-width: 800px) {
+	.pic{
+	width: 80%;
+}   	
+	}
